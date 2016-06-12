@@ -2,10 +2,10 @@
 layout:     post
 title:      "DATA DIRI"
 subtitle:   "DATA DIRI INI SAYA BUAT DENGAN YANG SEBENAR-BENARNYA."
-date:       2016-06-12 16:37:00
+date:       2016-06-12-DATADIRI.MARKDOWN
 author:     "Start Bootstrap"
 header-img: "img/post-bg-01.jpg"
-ML>
+<HTML>
 <HEAD>
 <TITLE>Tag DIV html</TITLE>
 <HEAD>
